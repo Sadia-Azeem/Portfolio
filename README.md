@@ -15,5 +15,5 @@ Power Bi
 
 
 ## Dashboard Image
-![Dashboard1 2024-08-17 101355](https://github.com/user-attachments/assets/9e4fb9a5-f5c4-4462-8264-a9d063df3991.jpg)
+![Dashboard1 2024-08-17 101355](https://github.com/user-attachments/assets/9e4fb9a5-f5c4-4462-8264-a9d063df3991)
 
