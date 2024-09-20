@@ -15,5 +15,11 @@ Power Bi
 
 
 ## Dashboard Image
+## Home Page - Global Summary
 ![Dashboard1 2024-08-17 101355](https://github.com/user-attachments/assets/9e4fb9a5-f5c4-4462-8264-a9d063df3991)
+
+## Life Expectancy Analysis
+![Screenshot 2024-08-17 101409](https://github.com/user-attachments/assets/2de995a8-4027-4134-b97b-4b133f046197)
+## Factor Analysis
+![Screenshot 2024-08-17 101426](https://github.com/user-attachments/assets/6103cf60-29b0-4c9e-b9ab-75bad546097d)
 
